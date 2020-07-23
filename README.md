@@ -2,6 +2,9 @@
 > simple Todo list with python - Flask 
 > like... `Hello, World`...
 
+
+![mainpage](tasks.PNG)
+
 ### instructions
 In local machine, I suggest using `vnev`
 ~~~
